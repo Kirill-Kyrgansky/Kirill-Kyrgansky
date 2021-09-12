@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Kirill-Kyrgansky
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning JS
+- My e-mail: kirill.kyrgansky@gmail.com
